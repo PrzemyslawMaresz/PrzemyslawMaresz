@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Przemyslaw Maresz
 ## I study Computer Science at AGH UST in Poland
  
- ### Recipe for muffins :)
+ 
  https://przemyslawmaresz.github.io/
 
 
