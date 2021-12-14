@@ -1,9 +1,8 @@
 # 👋 Hi, I’m Przemyslaw Maresz
 ## I study Computer Science at AGH UST in Poland
  
- 
- https://przemyslawmaresz.github.io/
-
+ ### "Kiedy laby" project
+ https://przemyslawmaresz.github.io/Kiedy-laby-project/
 
 <!---
 PrzemyslawMaresz/PrzemyslawMaresz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
